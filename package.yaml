@@ -1,11 +1,11 @@
 author:
-  email: humbertogontijo@users.noreply.github.com
-  homepage: https://github.com/humbertogontijo/homeassistant-roborock
-  name: humbertogontijo
+  email: surfingbytes@users.noreply.github.com
+  homepage: https://github.com/surfingbytes/homeassistant-roborock
+  name: surfingbytes
 description: Roborock
 files:
-  - custom_components/roborock/__init__.py
-  - custom_components/roborock/vacuum.py
+  - custom_components/roborock-hacs/__init__.py
+  - custom_components/roborock-hacs/vacuum.py
 keywords:
   - vacuum
   - robot
@@ -15,5 +15,5 @@ keywords:
   - custom-component
   - python
 license: MIT License
-name: roborock
+name: roborock-hacs
 type: component

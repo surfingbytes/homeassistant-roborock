@@ -10,6 +10,6 @@
         "https://cdn.jsdelivr.net/npm/@inlang/message-lint-rule-missing-translation@1/dist/index.js"
     ],
     "plugin.inlang.json": {
-        "pathPattern": "custom_components/roborock/translations/{languageTag}.json"
+        "pathPattern": "custom_components/roborock-hacs/translations/{languageTag}.json"
     }
 }

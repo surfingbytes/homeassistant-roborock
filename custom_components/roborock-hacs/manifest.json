@@ -1,6 +1,6 @@
 {
   "domain": "roborock",
-  "name": "Roborock",
+  "name": "Roborock-hacs",
   "codeowners": [
     "@humbertogontijo"
   ],

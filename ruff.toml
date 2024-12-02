@@ -41,8 +41,8 @@ ignore = [
 ]
 
 exclude = [
-    "custom_components/roborock/common",
-    "custom_components/roborock/camera.py"
+    "custom_components/roborock-hacs/common",
+    "custom_components/roborock-hacs/camera.py"
 ]
 
 [flake8-pytest-style]
